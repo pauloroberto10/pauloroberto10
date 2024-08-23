@@ -1,8 +1,7 @@
 ## ola bem vindo ao meu perfil 💜
 https://tenor.com/pt-BR/view/campeão-brasileiro-jogadores-palmeirenses-levantando-taça-palmeiras-campeão-brasileiro-gif-9716237653661682847
 <!--https://tenor.com/pt-BR/view/dancinha-comemorando-vai-vai-vai-palmeiras-campeão-brasileiro-gif-1328071259393297624
-**pauloroberto10/pauloroberto10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div class="tenor-gif-embed" data-postid="9716237653661682847" data-share-method="host" data-aspect-ratio="0.564257" data-width="100%"><a href="https://tenor.com/view/campe%C3%A3o-brasileiro-jogadores-palmeirenses-levantando-ta%C3%A7a-palmeiras-campe%C3%A3o-brasileiro-gif-9716237653661682847">Campeão Brasileiro Jogadores Palmeirenses GIF</a>from <a href="https://tenor.com/search/campe%C3%A3o+brasileiro-gifs">Campeão Brasileiro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+**pauloroberto10/pauloroberto10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profildiv class="tenor-gif-embed" data-postid="9716237653661682847" data-share-method="host" data-aspect-ratio="0.564257" data-width="100%"><a href="https://tenor.com/view/campe%C3%A3o-brasileiro-jogadores-palmeirenses-levantando-ta%C3%A7a-palmeiras-campe%C3%A3o-brasileiro-gif-9716237653661682847">Campeão Brasileiro Jogadores Palmeirenses GIF</a>from <a href="https://tenor.com/search/campe%C3%A3o+brasileiro-gifs">Campeão Brasileiro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Here are some ideas to get you started:
 
